@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on spring boot projects.
+- 🔭 I’m currently working on javascript, node, spring boot projects.
 - 🌱 I’m currently learning javascript, springboot.
 - 👯 I’m looking to collaborate on youtube.
 - 🤔 I’m looking for help with getting a job as software engineer.
